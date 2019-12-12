@@ -1,3 +1,0 @@
-rg = ["SAPLAB"]
-
-location = "northeurope"
