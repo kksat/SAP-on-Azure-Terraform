@@ -1,0 +1,3 @@
+rg = ["SAPLAB"]
+
+location = "northeurope"
